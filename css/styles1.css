@@ -1,0 +1,41 @@
+.container {
+	background-color: white; color: black; text-align: right;
+	height: 600px;  width : 1220px ;
+}
+.row1 {
+background-color: grey;
+color: black;border: 2px solid black;
+ height: 100px; 
+ width: 1200px; 
+}
+
+.row2{
+	background-color: cyan; color: black; border: 2px solid black;
+	height: 100px;text-align: center;
+width: 1200px;
+} 
+.row3{
+	background-color: cyan; color: black; border: 2px solid black;
+	height: 100px;text-align: center;
+	width: 1200px;
+} 
+.row4{
+	background-color: cyan; color: black; border: 2px solid black;
+	height: 100px;text-align: center;
+	width: 1200px;
+} 
+.row5{
+	background-color: cyan; color: black; border: 2px solid black;
+	height: 100px;text-align: center;
+	width: 1200px;
+} 
+.row6{
+	background-color: cyan; color: black; border: 2px solid black;
+	height: 100px;text-align: center;
+	width: 1200px;
+} 
+
+.nested-col-4,.nested-col-8,.nested-col-12,.nested-col-16,.nested-col-19{
+	background-color: orange; color: white; height: 100px;
+}
+
